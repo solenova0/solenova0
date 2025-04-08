@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student at AASTU, passionate about full-stack development, AI, and Competitive programming. I'm working toward becoming a top-level developer, aiming for big tech opportunities and freelancing success.
+I'm a Software Engineering student at AASTU, passionate about full-stack development, AI/ML, and competitive programming. I'm working toward becoming a top-level developer, aiming for big tech opportunities and freelancing success.
 
 
 ## 🌐 Socials:
