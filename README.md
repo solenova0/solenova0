@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student at AASTU, passionate about full-stack development, AI/ML, and competitive programming. I'm working toward becoming a top-level developer, aiming for big tech opportunities and freelancing success.
-
+I'm a Software Engineering student at AASTU, passionate about full-stack development, AI/ML, and competitive programming. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/solan-adugna-b28086337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adugnasolan@gmail.com) 
