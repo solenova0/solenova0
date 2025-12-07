@@ -1,17 +1,25 @@
 # 💫 About Me:
-I'm a Software Engineering student at AASTU, passionate about full-stack development, AI/ML, and competitive programming. 
+const about = {
+  title: "Software Engineering Undergrad @ AASTU",
+  
+  roles: ["Backend Dev", "ML Enthusiast", "CP Enthusiast"],
+  code: ["JavaScript", "Python", "Go", "C++"],
+  
+  frameworks: ["React", "Express", "Tailwind CSS", "Django (learning)"],
+  
+  infrastructure: ["Git", "GitHub", "Docker (learning)"],
+  
+  architecture: ["REST APIs", "MVC", "System Design"],
+  
+  interests: ["AI/ML", "Competitive Programming", "Generative AI"]
+};
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/solan-adugna-b28086337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adugnasolan@gmail.com) 
 
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=solenova0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=solenova0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solenova0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=solenova0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
