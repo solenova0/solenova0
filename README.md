@@ -12,7 +12,7 @@ const about = {
   interests: ["AI/ML", "Competitive Programming", "Generative AI"]
 };
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/solenova0/github-readme-stats)
+
 
 
 
