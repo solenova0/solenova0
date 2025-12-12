@@ -12,6 +12,7 @@ const about = {
   interests: ["AI/ML", "Competitive Programming", "Generative AI"]
 };
 ```
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=solenova0&show_icons=true&theme=tokyonight)
 
 
 
