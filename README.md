@@ -1,4 +1,4 @@
-# Hi, I'm Solan(nova)! 👋
+# Hi, I'm Solan! 👋
   **Software Engineering Undergrad @ AASTU**  
   Backend Developer | AI/ML Enthusiast | Competitive Programmer
 
