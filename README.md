@@ -112,7 +112,7 @@ I regularly solve problems on:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/solenova0
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/solan-adugna-b28086337/)
 
 ---
 
