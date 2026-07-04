@@ -1,119 +1,189 @@
-# Hi there 👋, I'm Solan
+# Hi there 👋 I'm Solan
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Distributed+Systems+Enthusiast;AI+%26+Machine+Learning+Learner;Always+Building+Something+Awesome" />
+</p>
 
-🎓 Software Engineering Student at AASTU  
-💻 A2SVian passionate about scalable backend systems and modern software engineering  
-🧠 AI & Machine Learning Enthusiast  
-🌍 Aspiring Backend / Software Engineer  
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/solenova0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](YOUR_PORTFOLIO)
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+🎓 Software Engineering Student at Addis Ababa Science and Technology University
+
+💻 Backend Software Engineer passionate about building scalable and distributed systems.
+
+🌍 Interested in
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Computing
+- AI & Machine Learning
+- System Design
+
+Currently preparing for Software Engineering internships at top tech companies.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-- TypeScript
-- JavaScript
-- Python
-- Golang
 
-### Backend Development
-- Node.js
-- Express.js
-- NestJS
+![Go](https://skillicons.dev/icons?i=go)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
 
-### Frontend Development
-- Next.js
-- React.js
-- Tailwind CSS
+### Backend
 
-### Databases & Infrastructure
-- PostgreSQL
-- MongoDB
-- Redis
-- Docker
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 
-### Tools & Technologies
-- Git & GitHub
-- REST APIs
-- WebSockets
-- Microservices
-- CI/CD
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Database
+
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+### DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-## 📚 Currently Focusing On
+# 🌱 Currently Learning
 
-- Scalable Backend Engineering
 - Distributed Systems
 - System Design
-- Microservices Architecture
-- Cloud & DevOps
-- AI/ML Integration
-- Data Structures & Algorithms
+- Microservices
+- Event Driven Architecture
+- Kubernetes
+- Cloud Infrastructure
+- AI Integration
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 Multi-Tenant SaaS Platform
-Production-grade SaaS platform with:
-- Authentication & Authorization
-- Multi-tenancy
+## 🏢 Multi-Tenant SaaS Platform
+
+Production-ready SaaS backend with
+
+- JWT Authentication
+- Role Based Access Control
 - Team Workspaces
 - Billing Architecture
-- Realtime Features
-- Microservices Design
+- PostgreSQL
+- Redis
+- Docker
+- Microservices
 
-### 🛒 Distributed Commerce Platform
-Scalable e-commerce backend system featuring:
+---
+
+## 🛒 Distributed Commerce Platform
+
+Modern e-commerce backend
+
 - API Gateway
 - Queue Processing
-- Redis Caching
 - Payment Integration
-- Event-Driven Architecture
+- Redis Cache
+- Order Service
+- Product Service
+- Notification Service
 
-### ⚡ Real-Time Collaboration Platform
-Realtime collaborative workspace inspired by modern productivity tools:
+---
+
+## ⚡ Real-Time Collaboration Platform
+
+Inspired by Notion & Slack
+
 - WebSockets
-- Live Updates
+- Live Collaboration
 - Shared Workspaces
-- Team Collaboration
+- Presence Tracking
+- Realtime Notifications
 
-### 🔗 URL Shortener & Analytics Platform
-High-performance URL shortening platform with:
-- Click Analytics
-- Distributed Caching
+---
+
+## 🔗 URL Shortener
+
+Scalable URL Shortener featuring
+
+- Analytics
 - Rate Limiting
-- Scalable Backend Services
+- Redis Cache
+- High Performance APIs
 
 ---
 
-## 🧩 Competitive Programming
+# 💻 Competitive Programming
 
-I regularly solve problems on:
+- LeetCode
+- Codeforces
+- HackerRank
+- GeeksforGeeks
 
-- [LeetCode](https://leetcode.com/)
-- [Codeforces](https://codeforces.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
----
-
-## 🎯 Goals
-
-- Become a world-class Software Engineer
-- Build scalable production systems
-- Contribute to impactful technology
-- Work on backend and distributed systems at scale
+Passionate about solving algorithmic problems and strengthening problem-solving skills.
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=solenova0&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=solenova0&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solenova0&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build production-ready backend systems
+- ✅ Master System Design
+- ✅ Become an expert in Distributed Systems
+- ✅ Contribute to Open Source
+- 🎯 Secure a Software Engineering Internship
+- 🎯 Build products used by thousands of users
+
+---
+
+# 📫 Connect With Me
 
 - GitHub: https://github.com/solenova0
-- LinkedIn: [LinkenIn](https://www.linkedin.com/in/solan-adugna-b28086337/)
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
 
 ---
 
-⭐ Always learning, building, and improving.
+<p align="center">
+
+⭐ *Always learning, building scalable systems, and solving challenging engineering problems.*
+
+</p>
