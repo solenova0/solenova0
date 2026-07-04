@@ -46,13 +46,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solenova0&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=solenova0&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solenova0&layout=compact&theme=default" />
-</p>
 ---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solenova0&theme=github-compact" />
+</p>
 
 ## 🚀 Projects
 
