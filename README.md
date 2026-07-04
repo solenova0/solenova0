@@ -10,7 +10,6 @@
 - 💻 Backend Engineer focused on scalable systems  
 - 🌍 Interested in Distributed Systems and Cloud Computing  
 - 🧠 Learning System Design, AI, and Microservices  
-- 🎯 Goal: Become a world-class Software Engineer  
 
 ---
 
@@ -47,10 +46,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solenova0&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solenova0&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=solenova0&show_icons=true&theme=default" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solenova0&layout=compact&theme=default" />
+</p>
 ---
 
 ## 🚀 Projects
